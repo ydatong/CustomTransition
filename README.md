@@ -1,1 +1,1 @@
-# CustomTransition
+# 自定义转场动画的一个小例子。
